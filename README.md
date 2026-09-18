@@ -1,0 +1,6 @@
+This program was made to have the user input movies and rate them and return responses based on how they rated those movies. After inputting the names of the movies and the rating the user gave them, 
+the program will then recommend a movie based on the users preferred genre and display a response. This was done using if else statements and switch statements to ensure that the correct response was given to the user after the input their answer.
+One of the main differences between a nested if statement and an if-else statement is, an if statement executed code based on if that statement is true or false. If true, the code executes, if false, the code moves on and doesn't execute the code.
+There are multiple advantages to using a switch statement over multiple if statements such as, tidying up your code and allowing for a more concise method for the same result. Instead copy pasting multiple if statements you can use a switch instead.
+Conditional operators simplify decision making by ensuring that incorrect information is not inserted into a variable for example and if so the code will execute a default response. This is used in the code when asking for a genre and responding with 
+"The Dark Knight" if a genre other than the specified ones are input.
